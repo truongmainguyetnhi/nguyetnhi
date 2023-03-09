@@ -5,12 +5,7 @@
            height: 500px;
            text-align: center;
            margin-top: 150px;
-           background-image: url("./img/smile.png");
-           background-repeat: no-repeat;
-           background-position: center;
-           background-position-x: center;
-           background-position-y: 90%;
-           font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+           font-family: 'Courier New', Courier, monospace;
        }
        #ho {
            font-size: 50px;
@@ -19,7 +14,7 @@
            font-size: 80px;
        }
        #intro {
-           margin-top: 200px;
+           margin-top: 50px;
            font-size: 30px;
        }
        #right {
